@@ -1,0 +1,47 @@
+Samus' current vertical is 105 she can comfortably jump over 2 blocks)
+^ initial yVel = 15
+
+spin ball is 64 by 64
+When initial yVel = 12, vertical is 66
+Max height is about 160 (but her hitbox gets reduced when she goes into a ball so chill
+Max height is actually 130 on the dot. Landing max height is 66-
+
+
+need to reduce by a bit
+Samus is 90 px tall
+So about 200px at max height
+
+each tile is 50px by 50px
+1600 by 1200 (maybe increase height (nah)
+
+1600/50 = 32 tiles
+1200/50 = 24 tiles
+
+good game design
+by making the room bigger, player can move cooler
+and also, i can make the portals necessary to beat the game
+
+Legend:
+x is a tile
+b is a button. Must press button to unlock door (door changes from red to green when unlocked)
+space is free space
+pressurePlate
+p is portalable tile
+d is door to next room
+r is a ray. Portals cannot pass the ray but players can
+
+Tips:
+make every floor at least 3 tiles tall (samus has room to jump but may bang head)
+for button make a method where objects with mass (not portal projectiles)
+can activate it
+if it detects an object with mass pushing on it, will open door
+else, close door if no mass on it not going to have cubes since u need to pick it up!!!
+
+CREATE NEW BLOCK WHERE U CAN SHOOT PORTALS THROUGH BUT PLAYER CANNOT MOVE THROUGH!!!
+
+
+pppppppppppppppppppppppppppppppppp
+Spaces below:
+                                  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+

@@ -1,0 +1,9 @@
+right now i corrected walk right and left so it looks normal
+each animation is 21 px or 22px from front
+
+did not do this for:
+idle animation
+jumping
+dashing
+rolling
+
